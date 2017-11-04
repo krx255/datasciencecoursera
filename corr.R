@@ -1,3 +1,5 @@
+# T. Broekhof
+
 library(utils)
 
 corr <- function(directory, threshold = 0) {

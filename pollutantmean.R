@@ -1,5 +1,6 @@
-# OPTIONAL : Install package needed to use rbindlist
+# T. Broekhof
 #
+# OPTIONAL : Install package needed to use rbindlist
 #
 # install.packages("data.table")
 # library(data.table)
